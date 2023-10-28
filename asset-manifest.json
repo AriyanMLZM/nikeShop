@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nikeShop/static/css/main.1353d253.css",
+    "main.js": "/nikeShop/static/js/main.717ae2c1.js",
+    "static/media/cart-large-2-svgrepo-com.png": "/nikeShop/static/media/cart-large-2-svgrepo-com.295ad77af189b2b569f7.png",
+    "index.html": "/nikeShop/index.html",
+    "main.1353d253.css.map": "/nikeShop/static/css/main.1353d253.css.map",
+    "main.717ae2c1.js.map": "/nikeShop/static/js/main.717ae2c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1353d253.css",
+    "static/js/main.717ae2c1.js"
+  ]
+}
